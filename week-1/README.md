@@ -8,4 +8,4 @@
 
 ### Assignment
 
-Your assignment is to create a `git` repository, commit a `README.md` file and push it to a repository under `[TR2013FallBootCamp](https://github.com/TR2013FallBootCamp)` organization called `[your name]-first-site`
+Your assignment is to create a `git` repository, commit a `README.md` file and push it to a repository under [`TR2013FallBootCamp`](https://github.com/TR2013FallBootCamp) organization called `[your name]-first-site`
