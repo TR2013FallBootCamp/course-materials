@@ -17,11 +17,11 @@ Additionally, install following sublime text packages via `Package Control`:
 
 ### For those who missed it
 
-1. Install following software:
+1) Install following software:
 
 - [SourceTree](http://sourcetreeapp.com)
 - [Node.JS](http://nodejs.org)
 - [Sublime Text](https://sublimetext.com)
 - Sublime Text [Package Control](https://sublime.wbond.net/)
 
-2. Send us your github resume so you can be added to `TR2013FallBootCamp` organization on github
+2) Send us your github resume so you can be added to `TR2013FallBootCamp` organization on github
