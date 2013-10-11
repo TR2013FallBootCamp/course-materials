@@ -24,4 +24,4 @@ Additionally, install following sublime text packages via `Package Control`:
 - [Sublime Text](https://sublimetext.com)
 - Sublime Text [Package Control](https://sublime.wbond.net/)
 
-2) Send us your github resume so you can be added to `TR2013FallBootCamp` organization on github
+2) Send us your github username so you can be added to `TR2013FallBootCamp` organization on github
