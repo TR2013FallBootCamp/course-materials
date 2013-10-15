@@ -13,6 +13,7 @@
 - [Complete HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 - [Specifics on CSS Specificity](css-tricks.com/specifics-on-css-specificity)
 - [Front End Frameworks Compared](http://usablica.github.io/front-end-frameworks/compare.html)
+- Book: [HTML and CSS: Design and Build Websites](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/ref=sr_1_1?s=books&ie=UTF8&qid=1381788994&sr=1-1&keywords=jon+duckett)
 
 #### Cool stuff
 
