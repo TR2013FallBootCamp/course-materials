@@ -35,22 +35,23 @@
 
 ### Week 2:
 
+- Anatomy of the Website
 - HTML
-	- 4 vs 5 Differences
-	- syntax
-	- attribute order
-	- anatomy of the page
+	- Purpose
+	- Terminology
+	- Structure & Syntax
+	- Attribute order
+	- Do’s and Don’ts
 	- Note on SEO
-- MDO CSS Guide
-	- Positioning
-	- Box Model
-	- Typography
-	- Visual
-	- Misc
-	- Notes on order and readablity
-- Smacss
-	- CSS (and html) scemantic organization
-- Codepen, cool site of whats possible
+- CSS
+	- Terms, Structure & Syntax
+	- Selectors
+	- Combining Selectors
+	- Specificity
+	- Referencing CSS
+	- CSS Reset
+- CSS Preprocessors
+- CSS Frameworks
 
 ### Week 3:
 
