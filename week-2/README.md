@@ -12,6 +12,12 @@
 - [Complete HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Complete HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 
+#### Cool stuff
+
+- [CodePen](codepen.io)
+  - [Breaking Bad](http://codepen.io/TimPietrusky/pen/Bsegb)
+  - [Warp Space](http://codepen.io/noahblon/pen/GKflw)
+
 ### Assigment
 
 
