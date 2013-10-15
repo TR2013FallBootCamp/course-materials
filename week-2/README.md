@@ -21,8 +21,8 @@
   - [Breaking Bad](http://codepen.io/TimPietrusky/pen/Bsegb)
   - [Warp Space](http://codepen.io/noahblon/pen/GKflw)
 
-### Assigment
+### Assignment
 
-
-
-### For those who missed it
+- Create a "personal" website that links to your github / other places
+- Experiment with styling and layout
+- Commit your work and push it to the repository you’ve created
