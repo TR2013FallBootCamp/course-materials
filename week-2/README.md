@@ -12,6 +12,7 @@
 - [Complete HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [Complete HTML Attribute Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
 - [Specifics on CSS Specificity](css-tricks.com/specifics-on-css-specificity)
+- [Front End Frameworks Compared](http://usablica.github.io/front-end-frameworks/compare.html)
 
 #### Cool stuff
 
