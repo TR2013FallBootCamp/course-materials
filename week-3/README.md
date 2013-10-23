@@ -12,5 +12,6 @@
 
 - [JavaScript Global Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 - [Reserved Words Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Reserved_Words)
+- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) (great, coincide overview that covers most major concepts in a very quick, dense context)
 
 ### Assignment
