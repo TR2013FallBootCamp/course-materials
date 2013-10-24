@@ -13,6 +13,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    margin: 10px;
 }
 
 ::-moz-selection {
@@ -63,7 +64,13 @@ textarea {
 
 
 
-
+.button {
+  padding: 20px;
+  width: 120px;
+  text-align: center;
+  background-color: orange;
+  border-radius: 20px;
+}
 
 
 
