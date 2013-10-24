@@ -17,4 +17,10 @@
 - [Code Wars](http://www.codewars.com/) - For advanced or very adventurous
 - [jQuery Selectors](http://api.jquery.com/category/selectors/)
 
-### Assignment
+### Assignment (due by Week 5)
+
+- [Code Scool JavaScript 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+- [Try jQuery](http://try.jquery.com)
+- [Code School JavaScript 2](https://www.codeschool.com/courses/javascript-road-trip-part-2) (optional, behind paywall)
+
+- Apply some jQuery magic to your personal site
