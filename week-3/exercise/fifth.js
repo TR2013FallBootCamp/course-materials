@@ -25,4 +25,5 @@ function addElement() {
 
   //insert it into the document somewhere
   document.getElementById('someElementId').appendChild(theNewParagraph);
+  console.log(theNewParagraph);
 }

@@ -2,7 +2,7 @@
 var string1 = 'Hello';
 var String1 = 'World!';
 
-console.log(string1, String1);
+// console.log(string1, String1);
 
 // Reserved words
 // var import = 'illegal';
@@ -36,12 +36,12 @@ console.log(string1, String1);
 // var nullVar = null;
 // console.log(nullVar);
 
-// var obj = {
-//   a: 'Hello',
-//   b: 'World',
-//   c: '!',
-// };
-// console.log(obj);
+var obj = {
+  a: 'Hello',
+  b: 'World',
+  c: '!',
+};
+console.log(obj);
 
 console.log(obj.a);
 console.log(obj['b']);
@@ -49,4 +49,4 @@ console.log(obj['b']);
 
 var arr = ['Hello ', 'World', '!'];
 console.log(arr);
-// console.log(arr.join(''));
+console.log(arr.join(''));

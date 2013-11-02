@@ -13,6 +13,6 @@ console.log(string1, String1);
 
 // Single Line comment
 
-// if (string1 == 'Hello') {
-//   console.log('Condition is satisfied');
-// }
+if (string1 == 'Hello') {
+  console.log('Condition is satisfied');
+}
