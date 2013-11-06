@@ -1,27 +1,44 @@
 <!DOCTYPE html>
 <html class="no-js">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title></title>
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="css/normalize.min.css">
-        <link rel="stylesheet" href="css/main.css">
+      <link rel="stylesheet" href="css/normalize.min.css">
+      <link rel="stylesheet" href="css/main.css">
+      <link rel="stylesheet" href="css/style.css">
 
-        <!--[if lt IE 9]>
-            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-            <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
-        <![endif]-->
-    </head>
-    <body>
+      <!--[if lt IE 9]>
+          <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+          <script>window.html5 || document.write('<script src="js/vendor/html5shiv.js"><\/script>')</script>
+      <![endif]-->
+  </head>
+  <body>
 
-        <p>Hello world! This is HTML5 Boilerplate.</p>
+    <p>Hello world! This is HTML5 Boilerplate.</p>
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.js"><\/script>')</script>
+    <form method="post" action="post">
+      <label for="firstname">First name:</label>
+      <input type="text" id="firstname" name="firstname" />
+      <label for="lastname">Last name:</label>
+      <input type="text" id="lastname" name="lastname" />
+      <label for="age">Age:</label>
+      <input type="text" id="age" name="age" />
+      <label for="city">City:</label>
+      <input type="text" id="city" name="city" />
+      <label for="state">State:</label>
+      <input type="text" id="state" name="state" />
+      <label for="email">Email:</label>
+      <input type="text" id="email" name="email" />
+      <input type="submit" name="Submit" value="Submit" />
+    </form>
 
-        <script src="js/main.js"></script>
-    </body>
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.js"></script>
+      <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.js"><\/script>')</script>
+
+      <script src="js/main.js"></script>
+  </body>
 </html>

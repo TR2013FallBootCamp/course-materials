@@ -1,0 +1,15 @@
+form {
+  margin: 20px 30px;
+  padding: 15px;
+  border: 1px solid #777;
+  width: 230px;
+}
+input {
+  display: block;
+  width: 200px;
+  padding: 4px;
+  margin: 0 auto 20px;
+}
+input:last-child {
+  margin: 10px auto 0;
+}
