@@ -4,7 +4,7 @@ var https = require('https');
 var cheerio = require('cheerio');
 
 function downloadWebsite(siteUrl, callback) {
-  var request = '';
+  var request;
   if (url.parse(siteUrl).protocol === 'https:') {
     request = https;
   } else {
