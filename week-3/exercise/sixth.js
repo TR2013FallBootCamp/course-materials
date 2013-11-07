@@ -17,10 +17,13 @@ $(document).ready(function() {
   $('p').css('font-size', '18px');
 
   // Add class
-  $('div:last').addClass('button');
+  // $('div:last').addClass('button');
 
   // Removing on click
   $('.button').on('click', function() {
-    $('.button').remove();
+    $(this).fadeOut(1000, function() {
+      $(this).text('sent');
+      $(this).fadeIn(1000);
+    });
   });
 });
