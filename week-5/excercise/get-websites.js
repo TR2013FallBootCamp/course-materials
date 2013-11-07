@@ -1,37 +1,6 @@
-var url = require('url');
-var http = require('http');
-var https = require('https');
-var cheerio = require('cheerio');
-
-function downloadWebsite(siteUrl, callback) {
-  var request;
-  if (url.parse(siteUrl).protocol === 'https:') {
-    request = https;
-  } else {
-    request = http;
-  }
-  request.get(siteUrl, function(res) {
-    var data = '';
-    res.on('data', function(chunk) {
-      data += chunk;
-    });
-    res.on('end', function() {
-      callback(data);
-    });
-  }).on('error', function() {
-    callback(null);
-  });
-}
-
-function getTitle(data) {
-  var $ = cheerio.load(data);
-  var title = $('title').text();
-  if (title !== '') {
-    console.log('The title for the website that was retrieved is: ' + title);
-  } else {
-    console.log('The page doesn\'t have a title tag.');
-  }
-}
+var scrapeSite = require('./download-website');
+var downloadWebsite = scrapeSite.download;
+var getTitle = scrapeSite.parseTitle;
 
 console.log('Getting title for Google...');
 downloadWebsite('https://www.google.com/', getTitle);

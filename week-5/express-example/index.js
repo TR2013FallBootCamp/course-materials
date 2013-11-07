@@ -1,6 +1,7 @@
 
 var express = require('express');
 var app = express();
+
 var error = require('./error');
 var contactForm = require('./contact-form');
 
@@ -18,4 +19,4 @@ app.post('/post', contactForm);
 app.get('/*', error.catchAll);
 
 app.listen(3000);
-console.log('listening on port 3000');
+console.log("Express server listening on port %d", 3000);
