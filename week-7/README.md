@@ -1,6 +1,6 @@
 ## Week 7
 
-Make sure that you've gone through [items 1 and 2 from last week](./week-6/README.md) using Visual Studio and understand GET vs. POST and debugging in Visual Studio.  Please read the following two PDFs:
+Make sure that you've gone through [items 1 and 2 from last week](../week-6/README.md) using Visual Studio and understand GET vs. POST and debugging in Visual Studio.  Please read the following two PDFs:
 
 ### Reading Material
 1. [Database Basics 1](./SQL-Chapter-3.pdf)
@@ -14,4 +14,4 @@ Make sure that you've gone through [items 1 and 2 from last week](./week-6/READM
 
 3. Be prepared to share your database design with your peers next week.
 
-### For those who missed it
+4. Get familiar with SELECT, INSERT, UPDATE, and DELETE statements as well as joins in your DVD lending library DB.
